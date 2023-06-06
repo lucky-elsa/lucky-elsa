@@ -4,7 +4,7 @@
 <h3 align="center" style="color: #fff">💖Visit Count💖</h3>
 <br>
 <p align="center">
-<a href="https://gist.github.com/elitemonster"><img src="https://profile-counter.glitch.me/beautylotus/count.svg" alt="beautylouts :: beautylotus's Count" /></a>
+<a href="https://gist.github.com/beautylotus"><img src="https://profile-counter.glitch.me/beautylotus/count.svg" alt="beautylouts :: beautylotus's Count" /></a>
 </p>
 
 
