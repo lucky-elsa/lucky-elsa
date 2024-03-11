@@ -142,8 +142,8 @@
 
 #  Welcome #
 
-![beautylotus's github stats](https://github-readme-stats.vercel.app/api?username=beautylotus&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=tokyonight)
-![beautylotus's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beautylotus&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
+![beautylotus's github stats](https://github-readme-stats.vercel.app/api?username=lucky-elsa&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=tokyonight)
+![beautylotus's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-elsa&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
 
 
 
