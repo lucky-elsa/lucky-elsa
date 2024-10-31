@@ -1,13 +1,4 @@
 <!--suppress HtmlDeprecatedAttribute -->
-#  Hello, Everyone #
-
-<h3 align="center" style="color: #fff">💖Visit Count💖</h3>
-<br>
-<p align="center">
-<a href="https://gist.github.com/beautylotus"><img src="https://profile-counter.glitch.me/beautylotus/count.svg" alt="beautylouts :: beautylotus's Count" /></a>
-</p>
-
-
 # My Main Stack #
 
 <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
